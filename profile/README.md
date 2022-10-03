@@ -1,6 +1,7 @@
 # Hello world! 👋
 
-We are SPACERS, a team that participates in the [NASA Space Apps Challenge 2022](https://www.spaceappschallenge.org/) in Barcelona, Spain.
+We are [SPACERS](https://2022.spaceappschallenge.org/challenges/2022-challenges/track-the-iss/teams/spacers-2/project),
+a team that participates in the [NASA Space Apps Challenge 2022](https://www.spaceappschallenge.org/) in Barcelona, Spain.
 We developed an ISS tracker that shows its current position in 3D, and if you have VR glasses you can
 deep dive into the station without having to travel to space!
 
