@@ -7,6 +7,9 @@ deep dive into the station without having to travel to space!
 
 You can find the project in the following url: https://isslocator.earth/
 
+![demo_gif](https://user-images.githubusercontent.com/61828943/193579335-7a0f7d81-5038-4a1e-9703-0e4b6cead1f2.gif)
+
+
 ## 🏔️ Challenge
 
 Among [all the challenges](https://2022.spaceappschallenge.org/challenges/) for this edition, we decided to choose the challenge to
